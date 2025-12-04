@@ -13,7 +13,6 @@ plugins {
 
 subprojects {
     repositories {
-        mavenLocal()
         google()
         mavenCentral()
         maven {
