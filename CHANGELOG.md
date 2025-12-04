@@ -1,3 +1,23 @@
+# [1.1.0](https://github.com/brosssh/revanced-manager-downloaders/compare/v1.0.0...v1.1.0) (2025-12-04)
+
+
+### Bug Fixes
+
+* Add gradle sha256 checksum ([f259821](https://github.com/brosssh/revanced-manager-downloaders/commit/f259821f7c1075aeca89759cc7d73ae93d91922a))
+* Correctly removing bundle attributes from manifest ([6433d98](https://github.com/brosssh/revanced-manager-downloaders/commit/6433d984950582d36d29ef758325d50016a62ae8))
+* Fix release workflow ([847bcdb](https://github.com/brosssh/revanced-manager-downloaders/commit/847bcdb8dff27c3a0d012772a9946311cc9825d9))
+* Fix release workflow (again) ([5bde601](https://github.com/brosssh/revanced-manager-downloaders/commit/5bde601bdda26d1b7704172eab239ff9ae41fb20))
+* Prefixing APKs with `revanced-manager-` ([f4c91f0](https://github.com/brosssh/revanced-manager-downloaders/commit/f4c91f0455e19e240a1527ff05f8f987fbf8e054))
+* Refactor of shared module + minor fixes ([5f6c7e5](https://github.com/brosssh/revanced-manager-downloaders/commit/5f6c7e53331d65b18898fb2997e2ff1ab5c30b87))
+* Showing progress if downloading an APK + minor fixes ([d46f002](https://github.com/brosssh/revanced-manager-downloaders/commit/d46f002aa234135ad54768d0bdf15eb9d17428c0))
+* Use correct plugin api ([7992a85](https://github.com/brosssh/revanced-manager-downloaders/commit/7992a85204e0d30c113ba1354aef7fe79da87816))
+
+
+### Features
+
+* Add more downloaders + don't merge APKMirror ([2a8ee97](https://github.com/brosssh/revanced-manager-downloaders/commit/2a8ee97fe03182edce81784bd77c4a4acbf1883d))
+* Add play store downloader ([#10](https://github.com/brosssh/revanced-manager-downloaders/issues/10)) ([38c6aa4](https://github.com/brosssh/revanced-manager-downloaders/commit/38c6aa4f6dbaa230212cd6e229609faecd615349))
+
 # [1.1.0-dev.1](https://github.com/brosssh/revanced-manager-downloaders/compare/v1.0.0...v1.1.0-dev.1) (2025-12-04)
 
 
